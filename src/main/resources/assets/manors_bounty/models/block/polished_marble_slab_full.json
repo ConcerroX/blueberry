@@ -1,0 +1,10 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "particle": "manors_bounty:block/polished_marble",
+    "bottom": "manors_bounty:block/polished_marble",
+    "top": "manors_bounty:block/polished_marble",
+    "side": "manors_bounty:block/polished_marble"
+  },
+  "render_type": "solid"
+}

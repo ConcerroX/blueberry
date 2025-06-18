@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "manors_bounty:block/cranberry_bush_4",
+    "particle": "manors_bounty:block/cranberry_bush_1"
+  },
+  "render_type": "cutout_mipped"
+}

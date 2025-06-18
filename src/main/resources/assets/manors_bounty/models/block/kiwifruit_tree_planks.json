@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "manors_bounty:block/kiwifruit_tree_planks",
+    "particle": "manors_bounty:block/kiwifruit_tree_planks"
+  },
+  "render_type": "cutout_mipped"
+}

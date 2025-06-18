@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "manors_bounty:block/avocado_tree_log_top",
+    "up": "manors_bounty:block/avocado_tree_log_top",
+    "north": "manors_bounty:block/avocado_tree_log",
+    "east": "manors_bounty:block/avocado_tree_log",
+    "south": "manors_bounty:block/avocado_tree_log",
+    "west": "manors_bounty:block/avocado_tree_log",
+    "particle": "manors_bounty:block/avocado_tree_log_top"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "manors_bounty:item/blueberry"
+  },
+  "render_type": "translucent"
+}

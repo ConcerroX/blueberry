@@ -1,0 +1,83 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.unknown",
+				"texture_width": 16,
+				"texture_height": 16,
+				"visible_bounds_width": 3,
+				"visible_bounds_height": 2.5,
+				"visible_bounds_offset": [0, 0.75, 0]
+			},
+			"bones": [
+				{
+					"name": "bb_main",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{
+							"origin": [-8, 3, 7.99],
+							"size": [16, 8, 0],
+							"uv": {
+								"north": {"uv": [0, 0], "uv_size": [16, 8]},
+								"east": {"uv": [0, 0], "uv_size": [0, 16]},
+								"south": {"uv": [9, 0], "uv_size": [-4, 0]},
+								"west": {"uv": [16, 0], "uv_size": [0, 8]},
+								"up": {"uv": [0, 0], "uv_size": [16, 0]},
+								"down": {"uv": [16, 0], "uv_size": [16, 0]}
+							}
+						}
+					]
+				},
+				{
+					"name": "bone",
+					"pivot": [7, 3.5, 7],
+					"cubes": [
+						{
+							"origin": [-6, 3.5, 5],
+							"size": [3, 3, 3],
+							"pivot": [-5, 3.5, 7],
+							"rotation": [22.70628, -28.11585, -15.9478],
+							"uv": {
+								"north": {"uv": [0, 13], "uv_size": [3, 3]},
+								"east": {"uv": [0, 13], "uv_size": [3, 3]},
+								"south": {"uv": [0, 13], "uv_size": [3, 3]},
+								"west": {"uv": [0, 13], "uv_size": [3, 3]},
+								"up": {"uv": [3, 13], "uv_size": [3, 3]},
+								"down": {"uv": [6, 16], "uv_size": [3, -3]}
+							}
+						},
+						{
+							"origin": [-0.75, 2.5, 5.5],
+							"size": [3, 3, 3],
+							"pivot": [0.25, 2.5, 7.5],
+							"rotation": [17.10814, -18.21015, 2.28461],
+							"uv": {
+								"north": {"uv": [0, 13], "uv_size": [3, 3]},
+								"east": {"uv": [0, 13], "uv_size": [3, 3]},
+								"south": {"uv": [0, 13], "uv_size": [3, 3]},
+								"west": {"uv": [0, 13], "uv_size": [3, 3]},
+								"up": {"uv": [3, 13], "uv_size": [3, 3]},
+								"down": {"uv": [6, 16], "uv_size": [3, -3]}
+							}
+						},
+						{
+							"origin": [3.15, 3.8, 6],
+							"size": [3, 3, 3],
+							"pivot": [4.15, 3.8, 8],
+							"rotation": [27.87644, 20.07227, 22.32011],
+							"uv": {
+								"north": {"uv": [0, 13], "uv_size": [3, 3]},
+								"east": {"uv": [0, 13], "uv_size": [3, 3]},
+								"south": {"uv": [0, 13], "uv_size": [3, 3]},
+								"west": {"uv": [0, 13], "uv_size": [3, 3]},
+								"up": {"uv": [3, 13], "uv_size": [3, 3]},
+								"down": {"uv": [6, 16], "uv_size": [3, -3]}
+							}
+						}
+					]
+				}
+			]
+		}
+	]
+}

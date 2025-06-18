@@ -1,0 +1,9 @@
+{
+  "parent": "manors_bounty:custom/dragon_fruit_block",
+  "textures": {
+    "all": "manors_bounty:block/dragon_fruit_block",
+    "particle": "manors_bounty:block/dragon_fruit",
+    "0": "manors_bounty:block/dragon_fruit_block"
+  },
+  "render_type": "cutout_mipped"
+}

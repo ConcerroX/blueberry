@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "manors_bounty:block/hamimelon_crop_5",
+    "particle": "manors_bounty:block/hamimelon_crop_0"
+  },
+  "render_type": "cutout_mipped"
+}

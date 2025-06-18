@@ -1,0 +1,10 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "particle": "manors_bounty:block/marble",
+    "bottom": "manors_bounty:block/marble",
+    "top": "manors_bounty:block/marble",
+    "side": "manors_bounty:block/marble"
+  },
+  "render_type": "solid"
+}

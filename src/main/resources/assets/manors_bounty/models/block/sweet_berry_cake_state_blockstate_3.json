@@ -1,0 +1,11 @@
+{
+  "parent": "block/cake_slice3",
+  "textures": {
+    "particle": "manors_bounty:block/sweet_berry_cake_side",
+    "bottom": "manors_bounty:block/sweet_berry_cake_bottom",
+    "top": "manors_bounty:block/sweet_berry_cake_top",
+    "side": "manors_bounty:block/sweet_berry_cake_side",
+    "inside": "manors_bounty:block/sweet_berry_cake_inner"
+  },
+  "render_type": "solid"
+}

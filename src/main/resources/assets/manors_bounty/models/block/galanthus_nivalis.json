@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "manors_bounty:block/galanthus_nivalis",
+    "particle": "manors_bounty:block/galanthus_nivalis"
+  },
+  "render_type": "cutout"
+}

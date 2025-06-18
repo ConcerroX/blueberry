@@ -1,0 +1,6 @@
+{
+  "parent": "manors_bounty:displaysettings/christmas_wreaths.item",
+  "textures": {
+    "particle": "manors_bounty:block/christmas_wreaths"
+  }
+}

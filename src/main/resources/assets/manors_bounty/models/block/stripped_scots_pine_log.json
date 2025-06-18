@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "manors_bounty:block/stripped_scots_pine_log_top",
+    "up": "manors_bounty:block/stripped_scots_pine_log_top",
+    "north": "manors_bounty:block/stripped_scots_pine_log",
+    "east": "manors_bounty:block/stripped_scots_pine_log",
+    "south": "manors_bounty:block/stripped_scots_pine_log",
+    "west": "manors_bounty:block/stripped_scots_pine_log",
+    "particle": "manors_bounty:block/stripped_scots_pine_log"
+  },
+  "render_type": "cutout_mipped"
+}

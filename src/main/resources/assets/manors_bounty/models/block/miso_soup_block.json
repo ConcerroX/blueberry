@@ -1,0 +1,9 @@
+{
+  "parent": "manors_bounty:custom/miso_soup",
+  "textures": {
+    "all": "manors_bounty:block/miso_soup",
+    "particle": "manors_bounty:block/miso_soup",
+    "2": "manors_bounty:block/miso_soup"
+  },
+  "render_type": "solid"
+}

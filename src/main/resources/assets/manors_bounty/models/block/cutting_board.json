@@ -1,0 +1,9 @@
+{
+  "parent": "manors_bounty:custom/cuttingboard",
+  "textures": {
+    "all": "manors_bounty:block/cutting_board",
+    "particle": "manors_bounty:block/cutting_board",
+    "0": "manors_bounty:block/cutting_board"
+  },
+  "render_type": "cutout_mipped"
+}

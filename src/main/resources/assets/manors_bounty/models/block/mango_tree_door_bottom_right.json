@@ -1,0 +1,9 @@
+{
+  "parent": "block/door_bottom_right",
+  "textures": {
+    "particle": "manors_bounty:block/mango_tree_door_bottom",
+    "bottom": "manors_bounty:block/mango_tree_door_bottom",
+    "top": "manors_bounty:block/mango_tree_door_top"
+  },
+  "render_type": "cutout_mipped"
+}

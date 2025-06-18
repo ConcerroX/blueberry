@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "manors_bounty:block/debrishroom",
+    "particle": "manors_bounty:block/debrishroom"
+  },
+  "render_type": "solid"
+}

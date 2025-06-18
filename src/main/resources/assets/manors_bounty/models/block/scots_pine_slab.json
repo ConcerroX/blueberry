@@ -1,0 +1,10 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "particle": "manors_bounty:block/scots_pine_planks",
+    "bottom": "manors_bounty:block/scots_pine_planks",
+    "top": "manors_bounty:block/scots_pine_planks",
+    "side": "manors_bounty:block/scots_pine_planks"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "manors_bounty:custom/borscht",
+  "textures": {
+    "all": "manors_bounty:block/borscht",
+    "particle": "manors_bounty:block/borscht",
+    "0": "manors_bounty:block/borscht",
+    "1": "manors_bounty:block/borscht"
+  },
+  "render_type": "solid"
+}

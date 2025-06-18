@@ -1,0 +1,86 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "manors_bounty:item/cake_knife"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "manors_bounty:cake_knife_cake_hold": 1
+      },
+      "model": "manors_bounty:item/cake_knife_0"
+    },
+    {
+      "predicate": {
+        "manors_bounty:cake_knife_cake_hold": 2
+      },
+      "model": "manors_bounty:item/cake_knife_1"
+    },
+    {
+      "predicate": {
+        "manors_bounty:cake_knife_cake_hold": 3
+      },
+      "model": "manors_bounty:item/cake_knife_2"
+    },
+    {
+      "predicate": {
+        "manors_bounty:cake_knife_cake_hold": 4
+      },
+      "model": "manors_bounty:item/cake_knife_3"
+    },
+    {
+      "predicate": {
+        "manors_bounty:cake_knife_cake_hold": 5
+      },
+      "model": "manors_bounty:item/cake_knife_4"
+    },
+    {
+      "predicate": {
+        "manors_bounty:cake_knife_cake_hold": 6
+      },
+      "model": "manors_bounty:item/cake_knife_5"
+    },
+    {
+      "predicate": {
+        "manors_bounty:cake_knife_cake_hold": 7
+      },
+      "model": "manors_bounty:item/cake_knife_6"
+    },
+    {
+      "predicate": {
+        "manors_bounty:cake_knife_cake_hold": 8
+      },
+      "model": "manors_bounty:item/cake_knife_7"
+    },
+    {
+      "predicate": {
+        "manors_bounty:cake_knife_cake_hold": 9
+      },
+      "model": "manors_bounty:item/cake_knife_8"
+    },
+    {
+      "predicate": {
+        "manors_bounty:cake_knife_cake_hold": 10
+      },
+      "model": "manors_bounty:item/cake_knife_9"
+    },
+    {
+      "predicate": {
+        "manors_bounty:cake_knife_cake_hold": 11
+      },
+      "model": "manors_bounty:item/cake_knife_10"
+    },
+    {
+      "predicate": {
+        "manors_bounty:cake_knife_cake_hold": 12
+      },
+      "model": "manors_bounty:item/cake_knife_11"
+    },
+    {
+      "predicate": {
+        "manors_bounty:cake_knife_cake_hold": 13
+      },
+      "model": "manors_bounty:item/cake_knife_12"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "manors_bounty:custom/oven",
+  "textures": {
+    "all": "manors_bounty:block/oven",
+    "particle": "manors_bounty:block/oven",
+    "0": "manors_bounty:block/oven"
+  },
+  "render_type": "cutout_mipped"
+}

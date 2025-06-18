@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "manors_bounty:block/jalapeno_bush_4_top",
+    "particle": "manors_bounty:block/jalapeno_bush_3_top"
+  },
+  "render_type": "cutout_mipped"
+}

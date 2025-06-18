@@ -1,0 +1,6 @@
+{
+  "parent": "manors_bounty:displaysettings/gift_tall.item",
+  "textures": {
+    "particle": "manors_bounty:block/gift_tall_red"
+  }
+}

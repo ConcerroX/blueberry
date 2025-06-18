@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "manors_bounty:block/radde",
+    "particle": "manors_bounty:block/radde"
+  },
+  "render_type": "cutout"
+}

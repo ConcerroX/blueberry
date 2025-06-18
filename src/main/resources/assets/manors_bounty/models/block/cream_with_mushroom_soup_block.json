@@ -1,0 +1,10 @@
+{
+  "parent": "manors_bounty:custom/cream_with_mushroom_soup",
+  "textures": {
+    "all": "manors_bounty:block/cream_with_mushroom_soup",
+    "particle": "manors_bounty:block/cream_with_mushroom_soup",
+    "0": "manors_bounty:block/cream_with_mushroom_soup",
+    "4": "manors_bounty:block/cream_with_mushroom_soup"
+  },
+  "render_type": "solid"
+}
