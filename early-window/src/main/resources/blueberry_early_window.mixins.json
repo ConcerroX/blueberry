@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "concerrox.blueberry.earlywindow.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "refmap": "blueberry_early_window.refmap.json",
+  "client": [
+    "NeoForgeLoadingOverlayMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "minVersion": "0.8.4"
+}

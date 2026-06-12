@@ -1,0 +1,7 @@
+{
+  "parent": "blueberry_logistics:block/transmitter/large_pipe",
+  "textures": {
+    "center_down": "blueberry_logistics:block/transmitter/item_duct/windowed_andesite_node",
+    "side": "blueberry_logistics:block/transmitter/item_duct/windowed_andesite"
+  }
+}

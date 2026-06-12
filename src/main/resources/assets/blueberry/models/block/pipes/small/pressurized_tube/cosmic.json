@@ -1,0 +1,9 @@
+{
+  "parent": "mekanism:block/transmitter/small/small",
+  "textures": {
+    "side": "blueberry:block/models/multipart/cosmic_pressurized_tube_vertical",
+    "center_down": "blueberry:block/models/multipart/cosmic_pressurized_tube",
+    "side_opaque": "blueberry:block/models/multipart/opaque/cosmic_pressurized_tube_vertical",
+    "center_opaque": "blueberry:block/models/multipart/cosmic_pressurized_tube"
+  }
+}

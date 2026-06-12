@@ -1,0 +1,7 @@
+{
+  "parent": "blueberry:block/pipes/pipe",
+  "textures": {
+    "side": "blueberry:block/pipes/pressured_pipes/windowed_aluminum_pressured_pipe",
+    "center_down": "blueberry:block/pipes/pressured_pipes/windowed_aluminum_pressured_pipe_node"
+  }
+}

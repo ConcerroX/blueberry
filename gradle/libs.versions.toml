@@ -1,0 +1,11 @@
+[versions]
+mekanism = "1.21.1-10.7.14.79"
+kotlinForForge = "5.5.0"
+
+[libraries]
+jade = { group = "maven.modrinth", name = "jade", version = "15.10.3+neoforge" }
+mekanism = { group = "mekanism", name = "Mekanism", version.ref = "mekanism" }
+kotlinForForge = { group = "thedarkcolour", name = "kotlinforforge-neoforge", version.ref = "kotlinForForge" }
+
+[plugins]
+modDevGradle = { id = "net.neoforged.moddev", version = "2.0.94" }

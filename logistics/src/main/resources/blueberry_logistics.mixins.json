@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "concerrox.blueberry.logistics.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "refmap": "blueberry_logistics.refmap.json",
+  "client": [
+    "TransporterUtilsMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "minVersion": "0.8.4"
+}

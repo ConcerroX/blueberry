@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "blueberry:block/transmitter/large/mechanical_pipe/absolute"
+    }
+  }
+}

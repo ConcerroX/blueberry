@@ -1,0 +1,24 @@
+{
+  "values": [
+    "blueberry:absolute_universal_cable",
+    "blueberry:supreme_universal_cable",
+    "blueberry:cosmic_universal_cable",
+    "blueberry:infinite_universal_cable",
+    "blueberry:absolute_mechanical_pipe",
+    "blueberry:supreme_mechanical_pipe",
+    "blueberry:cosmic_mechanical_pipe",
+    "blueberry:infinite_mechanical_pipe",
+    "blueberry:absolute_pressurized_tube",
+    "blueberry:supreme_pressurized_tube",
+    "blueberry:cosmic_pressurized_tube",
+    "blueberry:infinite_pressurized_tube",
+    "blueberry:absolute_logistical_transporter",
+    "blueberry:supreme_logistical_transporter",
+    "blueberry:cosmic_logistical_transporter",
+    "blueberry:infinite_logistical_transporter",
+    "blueberry:absolute_thermodynamic_conductor",
+    "blueberry:supreme_thermodynamic_conductor",
+    "blueberry:cosmic_thermodynamic_conductor",
+    "blueberry:infinite_thermodynamic_conductor"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+	"parent": "mekanism:block/transmitter/large/large",
+	"textures": {
+		"side": "mekanism:block/models/multipart/side",
+		"center_down": "mekanism:block/models/multipart/all",
+		"side_opaque": "blueberry:block/models/multipart/opaque/absolute_mechanical_pipe_vertical",
+		"center_opaque": "blueberry:block/models/multipart/opaque/absolute_mechanical_pipe"
+	}
+}

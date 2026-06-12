@@ -1,0 +1,7 @@
+{
+	"variants": {
+		"": {
+			"model": "blueberry:block/pipes/pressured_pipes/windowed_copper_pressured_pipe"
+		}
+	}
+}
