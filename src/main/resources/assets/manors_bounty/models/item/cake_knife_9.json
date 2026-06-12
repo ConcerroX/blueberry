@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "manors_bounty:item/cake_knife_with_mint_cake"
+  }
+}

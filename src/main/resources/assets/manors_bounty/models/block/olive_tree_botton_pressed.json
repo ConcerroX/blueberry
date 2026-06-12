@@ -1,0 +1,8 @@
+{
+  "parent": "block/button_pressed",
+  "textures": {
+    "particle": "manors_bounty:block/olive_tree_planks",
+    "texture": "manors_bounty:block/olive_tree_planks"
+  },
+  "render_type": "solid"
+}

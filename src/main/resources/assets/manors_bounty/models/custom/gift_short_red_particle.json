@@ -1,0 +1,6 @@
+{
+  "parent": "manors_bounty:displaysettings/gift_short.item",
+  "textures": {
+    "particle": "manors_bounty:block/gift_short_red"
+  }
+}

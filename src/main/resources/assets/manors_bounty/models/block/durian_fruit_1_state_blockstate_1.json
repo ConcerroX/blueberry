@@ -1,0 +1,9 @@
+{
+  "parent": "manors_bounty:custom/durian_leaves_d",
+  "textures": {
+    "all": "manors_bounty:block/durian_leaves_d",
+    "particle": "manors_bounty:block/durian",
+    "3": "manors_bounty:block/durian_leaves_d"
+  },
+  "render_type": "cutout_mipped"
+}

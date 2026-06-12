@@ -1,0 +1,9 @@
+{
+  "parent": "manors_bounty:custom/pineapple_crop_1",
+  "textures": {
+    "all": "manors_bounty:block/pineapple_crop_1",
+    "particle": "manors_bounty:block/pineapple_crop_1",
+    "0": "manors_bounty:block/pineapple_crop_1"
+  },
+  "render_type": "cutout_mipped"
+}

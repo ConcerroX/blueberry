@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "manors_bounty:block/hamimelon_side",
+    "up": "manors_bounty:block/hamimelon_top",
+    "north": "manors_bounty:block/hamimelon_side",
+    "east": "manors_bounty:block/hamimelon_side",
+    "south": "manors_bounty:block/hamimelon_side",
+    "west": "manors_bounty:block/hamimelon_side",
+    "particle": "manors_bounty:block/hamimelon_side"
+  },
+  "render_type": "solid"
+}

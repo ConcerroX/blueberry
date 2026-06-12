@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "manors_bounty:block/volcanic_mud",
+    "particle": "manors_bounty:block/volcanic_mud"
+  },
+  "render_type": "solid"
+}

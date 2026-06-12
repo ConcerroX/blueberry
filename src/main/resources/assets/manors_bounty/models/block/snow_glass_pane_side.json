@@ -1,0 +1,9 @@
+{
+  "parent": "block/template_glass_pane_side",
+  "textures": {
+    "particle": "manors_bounty:block/snow_glass",
+    "edge": "manors_bounty:block/snow_glass_pane_top",
+    "pane": "manors_bounty:block/snow_glass"
+  },
+  "render_type": "minecraft:cutout"
+}

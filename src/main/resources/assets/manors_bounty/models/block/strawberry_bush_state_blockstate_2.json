@@ -1,0 +1,9 @@
+{
+  "parent": "manors_bounty:custom/strawberry_bush_new",
+  "textures": {
+    "all": "manors_bounty:block/strawberry_bush_new_4",
+    "particle": "manors_bounty:block/strawberry_bush_new_1",
+    "2": "manors_bounty:block/strawberry_bush_new_4"
+  },
+  "render_type": "cutout_mipped"
+}

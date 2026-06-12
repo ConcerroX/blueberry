@@ -1,0 +1,6 @@
+{
+  "parent": "manors_bounty:displaysettings/marble_bowl_display",
+  "textures": {
+    "particle": "manors_bounty:block/christmas_mini_gifts_red_red"
+  }
+}

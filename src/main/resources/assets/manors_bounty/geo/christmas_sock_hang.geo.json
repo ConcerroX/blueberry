@@ -1,0 +1,53 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.unknown",
+				"texture_width": 32,
+				"texture_height": 32,
+				"visible_bounds_width": 3,
+				"visible_bounds_height": 2.5,
+				"visible_bounds_offset": [0, 0.75, 0]
+			},
+			"bones": [
+				{
+					"name": "Body",
+					"pivot": [0, 18, -5],
+					"cubes": [
+						{"origin": [-0.62, 4.18, -2], "size": [6, 4, 4], "pivot": [0.75, 6.25, -1], "rotation": [0, 0, -75], "uv": [0, 8], "mirror": true},
+						{"origin": [-0.37, 10.93, -3], "size": [6, 2, 6], "pivot": [1, 13, -2], "rotation": [0, 0, 15], "uv": [0, 0], "mirror": true}
+					]
+				},
+				{
+					"name": "bone6",
+					"parent": "Body",
+					"pivot": [-3, 5, -1],
+					"cubes": [
+						{"origin": [-4, 3, -2], "size": [6, 4, 4], "inflate": 0.02, "pivot": [-3, 5, -1], "rotation": [0, 0, -15], "uv": [0, 16], "mirror": true}
+					]
+				},
+				{
+					"name": "bone5",
+					"parent": "Body",
+					"pivot": [3, 13.5, 0.25],
+					"cubes": [
+						{"origin": [1.63, 11.43, -0.75], "size": [3, 3, 3], "pivot": [3, 13.5, 0.25], "rotation": [0, 35, 15], "uv": [17, 13], "mirror": true},
+						{"origin": [3.38177, 14.28863, -0.91774], "size": [0, 3, 3], "pivot": [3.4088, 14.25, 0.25], "rotation": [-26.341, 23.92746, -35.67731], "uv": [16, 5], "mirror": true},
+						{"origin": [3.38177, 14.28863, -0.91774], "size": [0, 3, 3], "pivot": [3.4088, 14.25, 0.25], "rotation": [26.341, 23.92746, 65.67731], "uv": [0, 0], "mirror": true}
+					]
+				},
+				{
+					"name": "bone4",
+					"parent": "Body",
+					"pivot": [2, 13.5, -0.5],
+					"cubes": [
+						{"origin": [0.63, 11.43, -1.5], "size": [1, 6, 1], "pivot": [2, 13.5, -0.5], "rotation": [-2.91216, 34.61588, -3.24888], "uv": [20, 19], "mirror": true},
+						{"origin": [-1.37, 16.43, -1.5], "size": [2, 1, 1], "pivot": [2, 13.5, -0.5], "rotation": [-2.91216, 34.61588, -3.24888], "uv": [0, 0], "mirror": true},
+						{"origin": [-1.37, 15.43, -1.5], "size": [1, 1, 1], "pivot": [2, 13.5, -0.5], "rotation": [-2.91216, 34.61588, -3.24888], "uv": [0, 8], "mirror": true}
+					]
+				}
+			]
+		}
+	]
+}

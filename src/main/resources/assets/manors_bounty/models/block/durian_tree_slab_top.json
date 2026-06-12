@@ -1,0 +1,10 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "particle": "manors_bounty:block/durian_tree_planks",
+    "bottom": "manors_bounty:block/durian_tree_planks",
+    "top": "manors_bounty:block/durian_tree_planks",
+    "side": "manors_bounty:block/durian_tree_planks"
+  },
+  "render_type": "solid"
+}

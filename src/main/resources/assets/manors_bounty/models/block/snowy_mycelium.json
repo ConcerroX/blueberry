@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "manors_bounty:block/snowy_mycelium_bottom",
+    "up": "manors_bounty:block/snowy_mycelium_top",
+    "north": "manors_bounty:block/snowy_mycelium_side",
+    "east": "manors_bounty:block/snowy_mycelium_side",
+    "south": "manors_bounty:block/snowy_mycelium_side",
+    "west": "manors_bounty:block/snowy_mycelium_side",
+    "particle": "manors_bounty:block/snowy_mycelium_bottom"
+  },
+  "render_type": "solid"
+}

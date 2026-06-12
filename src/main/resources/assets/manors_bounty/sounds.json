@@ -1,0 +1,83 @@
+{
+  "prism_iv_beat": {
+    "subtitle": "subtitles.prism_iv_beat",
+    "sounds": [
+      {
+        "name": "manors_bounty:beat",
+        "stream": false
+      }
+    ]
+  },
+  "prism_iv_shoot": {
+    "subtitle": "subtitles.prism_iv_shoot",
+    "sounds": [
+      {
+        "name": "manors_bounty:shoot",
+        "stream": false
+      }
+    ]
+  },
+  "neon_using": {
+    "subtitle": "subtitles.neon_using",
+    "sounds": [
+      {
+        "name": "manors_bounty:dian_ju_ju_",
+        "stream": false
+      }
+    ]
+  },
+  "wao": {
+    "subtitle": "subtitles.wao",
+    "sounds": [
+      {
+        "name": "manors_bounty:wao",
+        "stream": false
+      }
+    ]
+  },
+  "waooooo": {
+    "subtitle": "subtitles.waooooo",
+    "sounds": [
+      {
+        "name": "manors_bounty:waooooo",
+        "stream": false
+      }
+    ]
+  },
+  "ice_cream_machine_type_item": {
+    "subtitle": "subtitles.ice_cream_machine_type_item",
+    "sounds": [
+      {
+        "name": "manors_bounty:tie_gai_",
+        "stream": false
+      }
+    ]
+  },
+  "frying": {
+    "subtitle": "subtitles.frying",
+    "sounds": [
+      {
+        "name": "manors_bounty:you_zha__01",
+        "stream": false
+      }
+    ]
+  },
+  "oven_working": {
+    "subtitle": "subtitles.oven_working",
+    "sounds": [
+      {
+        "name": "manors_bounty:kao_xiang_yun_xing_",
+        "stream": false
+      }
+    ]
+  },
+  "oven_ding": {
+    "subtitle": "subtitles.oven_ding",
+    "sounds": [
+      {
+        "name": "manors_bounty:kao_xiang_ding_",
+        "stream": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "manors_bounty:block/botton_moshroom_block",
+    "particle": "manors_bounty:block/botton_moshroom_block"
+  },
+  "render_type": "cutout_mipped"
+}

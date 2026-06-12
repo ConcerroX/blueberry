@@ -1,0 +1,20 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "manors_bounty:item/blueberry"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "manors_bounty:blueberry_name_blueberry_electric": 2
+      },
+      "model": "manors_bounty:item/blueberry_0"
+    },
+    {
+      "predicate": {
+        "manors_bounty:blueberry_name_blueberry_electric": 1
+      },
+      "model": "manors_bounty:item/blueberry_1"
+    }
+  ]
+}

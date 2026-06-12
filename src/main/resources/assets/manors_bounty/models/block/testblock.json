@@ -1,0 +1,9 @@
+{
+  "parent": "manors_bounty:custom/testmodel",
+  "textures": {
+    "all": "manors_bounty:block/texture",
+    "particle": "manors_bounty:block/texture",
+    "0": "manors_bounty:block/texture"
+  },
+  "render_type": "cutout_mipped"
+}

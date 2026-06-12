@@ -1,0 +1,9 @@
+{
+  "parent": "manors_bounty:custom/cherries_pie_3",
+  "textures": {
+    "all": "manors_bounty:block/cherries_pie",
+    "particle": "manors_bounty:block/cherries_pie_particle",
+    "0": "manors_bounty:block/cherries_pie"
+  },
+  "render_type": "cutout_mipped"
+}

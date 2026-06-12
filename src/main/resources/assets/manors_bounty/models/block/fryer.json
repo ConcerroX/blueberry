@@ -1,0 +1,9 @@
+{
+  "parent": "manors_bounty:custom/fryer",
+  "textures": {
+    "all": "manors_bounty:block/fryer",
+    "particle": "manors_bounty:block/fryer",
+    "1": "manors_bounty:block/fryer"
+  },
+  "render_type": "translucent"
+}

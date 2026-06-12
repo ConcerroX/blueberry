@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_farmland",
+  "textures": {
+    "dirt": "manors_bounty:block/rich_black_dirt",
+    "top": "manors_bounty:block/rich_black_dirt_farmland"
+  }
+}

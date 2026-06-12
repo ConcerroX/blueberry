@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "manors_bounty:block/rich_black_dirt",
+    "particle": "manors_bounty:block/rich_black_dirt"
+  },
+  "render_type": "solid"
+}

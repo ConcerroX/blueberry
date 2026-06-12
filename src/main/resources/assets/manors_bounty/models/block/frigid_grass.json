@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "manors_bounty:block/frigid_grass",
+    "particle": "manors_bounty:block/frigid_grass"
+  },
+  "render_type": "cutout"
+}

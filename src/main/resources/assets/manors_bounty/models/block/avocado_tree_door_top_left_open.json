@@ -1,0 +1,9 @@
+{
+  "parent": "block/door_top_left_open",
+  "textures": {
+    "particle": "manors_bounty:block/avocado_tree_door_bottom",
+    "bottom": "manors_bounty:block/avocado_tree_door_bottom",
+    "top": "manors_bounty:block/avocado_tree_door_top"
+  },
+  "render_type": "cutout_mipped"
+}

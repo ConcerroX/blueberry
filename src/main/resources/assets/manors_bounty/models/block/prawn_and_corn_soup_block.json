@@ -1,0 +1,10 @@
+{
+  "parent": "manors_bounty:custom/krill_and_corn_soup",
+  "textures": {
+    "all": "manors_bounty:block/krill_and_corn_soup",
+    "particle": "manors_bounty:block/krill_and_corn_soup",
+    "0": "manors_bounty:block/krill_and_corn_soup",
+    "2": "manors_bounty:block/krill_and_corn_soup"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_fence_gate",
+  "textures": {
+    "particle": "manors_bounty:block/starfruit_tree_planks",
+    "texture": "manors_bounty:block/starfruit_tree_planks"
+  },
+  "render_type": "solid"
+}

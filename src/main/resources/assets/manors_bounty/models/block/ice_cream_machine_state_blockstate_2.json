@@ -1,0 +1,9 @@
+{
+  "parent": "manors_bounty:custom/ice_cream_machine",
+  "textures": {
+    "all": "manors_bounty:block/ice_cream_machine_vanilla",
+    "particle": "manors_bounty:block/ice_cream_machine",
+    "1": "manors_bounty:block/ice_cream_machine_vanilla"
+  },
+  "render_type": "cutout_mipped"
+}

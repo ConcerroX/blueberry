@@ -1,0 +1,11 @@
+{
+  "parent": "block/cake_slice4",
+  "textures": {
+    "particle": "manors_bounty:block/chorus_flower_jelly_cake_side",
+    "bottom": "manors_bounty:block/chorus_flower_jelly_cake_bottom",
+    "top": "manors_bounty:block/chorus_flower_jelly_cake_top",
+    "side": "manors_bounty:block/chorus_flower_jelly_cake_side",
+    "inside": "manors_bounty:block/chorus_flower_jelly_cake_inner_wink"
+  },
+  "render_type": "solid"
+}
